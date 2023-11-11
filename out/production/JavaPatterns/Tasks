@@ -1,0 +1,62 @@
+60 Java questions that involve printing patterns of stars/numbers.
+
+***Write a program that takes X number from the user and prints out __________pattern.
+
+1. Write a program that takes X number from the user and prints out right-angled triangle pattern.
+1
+22
+333
+4444
+55555
+666666
+7777777
+
+
+2. Print an inverted right-angled triangle pattern of stars.
+1 2 3 4 5 6 7
+1 2 3 4 5 6
+1 2 3 4 5
+1 2 3 4
+1 2 3
+1 2
+1
+
+3. Print a square pattern of stars.
+4. Print a hollow square pattern of stars.
+5. Print a pyramid pattern of stars.
+6. Print an inverted pyramid pattern of stars.
+7. Print a diamond pattern of stars.
+8. Print an hourglass pattern of stars.
+9. Print a right-angled triangle pattern of numbers.
+10. Print a mirrored right-angled triangle pattern of stars.
+11. Print a butterfly pattern of stars.
+12. Print a palindrome pattern of stars.
+13. Print an arrowhead pattern of stars.
+14. Print a cross pattern of stars.
+15. Print a X pattern of stars.
+16. Print a staircase pattern of stars.
+17. Print a spiral pattern of numbers.
+18. Print a zigzag pattern of stars.
+19. Print a concentric square pattern of stars.
+20. Print a circle pattern of stars.
+21. Print a heart shape pattern of stars.
+22. Print a tree pattern of stars.
+23. Print a pattern of stars with a user-defined height.
+24. Print a pattern of stars with a user-defined character.
+25. Print a triangle pattern of alphabets.
+26. Print a pattern of stars with alternating rows.
+27. Print an arrow pattern of stars.
+28. Print a staircase pattern with a user-defined symbol.
+29. Print a hollow triangle pattern of stars.
+30. Print a pattern of stars with a hollow center.
+31. Print a spiral pattern of stars.
+32. Print a wave pattern of stars.
+33. Print a pattern of stars with a pyramid inside.
+34. Print a pattern of stars with a square inside.
+35. Print a pattern of stars with a rhombus inside.
+36. Print a pattern of stars with a parallelogram inside.
+37. Print a pattern of stars with a hexagon inside.
+38. Print a pattern of stars with a spiral inside.
+39. Print a pattern of stars with concentric circles.
+40. Print a pattern of stars with concentric rectangles.
+

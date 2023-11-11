@@ -2,26 +2,15 @@ package StarPatterns;
 
 public class T01_rightAngleTriangle {
     public static void main(String[] args) {
-     int num=7;
+        int num=7;
 
-        for (int i = 1; i <=num ; i++) { //rows
-            for (int j = 1; j <=i ; j++) { //columns
-
-                //System.out.print(i + " ");
-               // System.out.print("* ");
-                System.out.print(i );
-
+        for (int i = 1; i <=7 ; i++) {
+            for (int j = 1; j <=i ; j++) {
+                System.out.print(i + " ");
 
             }
             System.out.println();
-
         }
-
-
-
-
-
-
     }
 
 }
